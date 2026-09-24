@@ -1,7 +1,7 @@
 # quant-journey
 
 ## Goal
-To develop the skills of a quant
+Stay commited to the course for all 52 weeks clearing every gate and not miss a week, this should be completed by October 2027.
 
 ## Start date
 2026-09-24
